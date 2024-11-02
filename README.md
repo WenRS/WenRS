@@ -1,6 +1,6 @@
 # 🚀 Um pouco sobre mim... 🤗
 
-*Nascido no ano de 1996 de fev, eu cresci com uma curiosidade bem elevada e sempre apreciei muito o desconhecido o meu primeiro
+*Prazer me chamo Wenderson nasci no ano de 1996 de fev, eu cresci com uma curiosidade bem elevada e sempre apreciei muito o desconhecido o meu primeiro
 contato com a tecnologia foi quando eu abri ou melhor quebrei meu carrinho de controle remoto rsrs, pode parecer engraçada mas foi ali
 que surgiram as primeiras perguntas é duvidas de como aquele brinquedo funcionava, então segui abrindo é desmontando todo tipo de aparelhos
 eletrônicos para conseguir alguma resposta rsrs, mas faltava algo, então esse desejo de saber mais sobre esse mundo da tecnologia só aumentava,
