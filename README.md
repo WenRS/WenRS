@@ -1,4 +1,4 @@
-# 🚀 Um pouco sobre mim... 🤗
+ # 🚀 Um pouco sobre mim... 🤗
 
 *Prazer me chamo Wenderson nasci no ano de 1996 de fev, eu cresci com uma curiosidade bem elevada e sempre apreciei muito o desconhecido o meu primeiro
 contato com a tecnologia foi quando eu abri ou melhor quebrei meu carrinho de controle remoto rsrs, pode parecer engraçada mas foi ali
