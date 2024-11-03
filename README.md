@@ -27,5 +27,5 @@ ate que eu descobri sobre o mundo incrível da programação e suas infinitas po
 [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ## Links Uteis.
-[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wenderson-rodrigues-06b5842a5/)
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/wenderson-rodrigues-06b5842a5/)
 [![instagram](https://img.shields.io/badge/instagram-F66020?style=for-the-badge&logo=instagram&logoColor=black)]()
