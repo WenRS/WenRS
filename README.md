@@ -1,16 +1,12 @@
  # Olá é um prazer me conectar com voçê, me chamo Wenderson e aqui vai um pouco sobre mim... 🤗
  
-🚀 Prazer me chamo Wenderson nasci no ano de 1996 de fev, eu cresci com uma curiosidade bem elevada e sempre apreciei muito o desconhecido o meu primeiro
-contato com a tecnologia foi quando eu abri ou melhor quebrei meu carrinho de controle remoto😅, pode parecer engraçada mas foi ali
-que surgiram as primeiras perguntas é duvidas de como aquele brinquedo funcionava, então segui abrindo é desmontando todo tipo de aparelhos
-eletrônicos para conseguir alguma resposta🙃, mas faltava algo, então esse desejo de saber mais sobre esse mundo da tecnologia só aumentava,
-ate que eu descobri sobre o mundo incrível da programação e suas infinitas possibilidades.
+🚀 Prazer me chamo Wenderson eu cresci com uma curiosidade bem elevada e sempre apreciei o desconhecido, meu primeiro
+contato com a tecnologia foi quando eu abri ou melhor quebrei meu carrinho de controle remoto😅, pode parecer 
+engraçada mas foi ali que surgiram as primeiras perguntas é duvidas de como aquele brinquedo funcionava, então
+esse desejo de saber mais sobre esse mundo da tecnologia só aumentava, ate que eu descobri sobre o mundo 
+incrível da programação e suas infinitas possibilidades.
 
-Atualmente não trabalha na area de programação mas logo, logo estarei, mas ate la quero buscar mais e mais entendimento sobre esse mundo da tecnologia
-sei que tem muito o que aprender, mas estou me esforçando para conseguir bons resultados, então ate logo...
-
-
-### Aqui estão algumas curiosidades sobre mim.
+### E aqui estão algumas curiosidades sobre mim.
 - ✝️ Sou uma pessoa cristão ✝️
 - ♒ O meu signo é de aquário ♒
 - 💻 E gosto muito de tecnologia e as vezes desmontar algumas coisinhasr rs, velhos habitos não somem rapidamente 🤭
@@ -19,8 +15,6 @@ sei que tem muito o que aprender, mas estou me esforçando para conseguir bons r
 - 🩵 Minha cor favorita é 🟦
 - 🐦‍🔥 Gosto de animes e jogos 👾
 - 🔭 E meu hobby favorito é olhar para o ceu 🌌
-
-###
 
  ## Habilidades em desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
