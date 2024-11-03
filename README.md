@@ -21,11 +21,11 @@ incrível da programação e suas infinitas possibilidades, e aqui estou eu.
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 
-### Tecnologias aplicada
+### Tecnologias
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 [![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-## Links Uteis para contato.
+## Links Uteis.
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/wenderson-rodrigues-06b5842a5/)
 [![google](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=red)]()
 
