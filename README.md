@@ -22,8 +22,9 @@ ate que eu descobri sobre o mundo incrível da programação e suas infinitas po
 |HTML 5|CSS|JAVA|
 |------|---|----|
 
-## Links uteis
+## Tecnologias aprendidas
+[![git](https://img.shields.io/badge/git-orange?style=for-the-badge&logo=git&logoColor=black)](https://git-scm.com/downloads)
+[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/wenderson-rodrigues-06b5842a5)
-[![github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WenRS)
+
 
