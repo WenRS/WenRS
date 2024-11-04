@@ -31,7 +31,8 @@ também, ela e foi uma otima tutora em todas as aulas. Gratidão ao pessoal da D
 
 ## Links Uteis.
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/wenderson-rodrigues-06b5842a5/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](Wenderson:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@wen007/)
 
 *Foi um prazer me conectar com você, ate mais.* 😉
 
