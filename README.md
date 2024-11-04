@@ -31,14 +31,6 @@ da programação e suas infinitas possibilidades, e aqui estou eu aprendendo e m
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](Wenderson:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@wen007/)
 
-#### Sobre esse projeto.                         
-Esse projeto foi feito com o intuito de aprendizado e desenvolvimento pessoal, 
-projeto esse que foi desenvolvindo por mim juntamente com o curso da 
-[Dio.me](https://web.dio.me/home) que me ajudou a dar mais um passo importante 
-rumo ao meu sonho, meus agredecimentos vai para 
-[Eli](https://github.com/elidianaandrade/elidianaandrade) também, ela e foi uma 
-otima tutora em todas as aulas. Gratidão ao pessoal da DIO.
-
 
                                *Foi um prazer me conectar com você, ate mais.* 👋😉
 
