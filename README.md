@@ -40,7 +40,7 @@ rumo ao meu sonho, meus agredecimentos vai para
 otima tutora em todas as aulas. Gratidão ao pessoal da DIO.
 
 
-                                            *Foi um prazer me conectar com você, ate mais.* 👋😉
+                                *Foi um prazer me conectar com você, ate mais.* 👋😉
 
 
 
