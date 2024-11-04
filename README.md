@@ -30,7 +30,7 @@ Esse projeto foi feito com o intuito de aprendizado e desenvolvimento pessoal, p
 também, ela e foi uma otima tutora em todas as aulas. Gratidão ao pessoal da DIO.
 
 ## Links Uteis.
-[![linkedin](<a https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=blacktarget="_blank">)](https://www.linkedin.com/in/wenderson-rodrigues-06b5842a5/)
+[![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/wenderson-rodrigues-06b5842a5/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](wender:wenderson007sr@gmail.com)
 
 *Foi um prazer me conectar com você, ate mais.* 😉
