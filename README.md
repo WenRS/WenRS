@@ -22,7 +22,7 @@ aprendendo e me divertindo...
 
 ## Links Uteis.
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/wenderson-rodrigues-06b5842a5/)
-[![google](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](wenderson007sr@gmail.com)
+[![google](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](https://mail.google.com/mail/u/0/?hl=pt_BR#inbox)
 
 *Foi um prazer me conectar com você, ate mais.* 😉
 
