@@ -27,6 +27,8 @@ da programação e suas infinitas possibilidades, e aqui estou eu aprendendo e m
 - Trabalho em Equipe
 - Liderança
 - Criativo
+- Esforçada
+- Vontade de Aprender
 
 ### Tecnologias e Ferramantas
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
