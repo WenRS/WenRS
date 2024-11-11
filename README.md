@@ -26,7 +26,7 @@ da programação e suas infinitas possibilidades, e aqui estou eu aprendendo e m
 - Comunicativo
 - Trabalho em Equipe
 - Liderança
-- criativo
+- Criativo
 
 ### Tecnologias e Ferramantas
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
